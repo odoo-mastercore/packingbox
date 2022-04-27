@@ -2,3 +2,8 @@
 	path = extra-addons/odoo-argentina-ee
 	url = git@github.com:ingadhoc/odoo-argentina-ee.git
 	branch = 15.0
+
+[submodule "extra-addons/account-payment"]
+	path = extra-addons/account-payment
+	url = git@github.com:ingadhoc/account-payment.git
+	branch = 15.0
