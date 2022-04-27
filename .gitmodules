@@ -1,0 +1,4 @@
+[submodule "extra-addons/odoo-argentina-ee"]
+	path = extra-addons/odoo-argentina-ee
+	url = git@github.com:ingadhoc/odoo-argentina-ee.git
+	branch = 15.0
