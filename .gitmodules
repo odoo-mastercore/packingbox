@@ -22,3 +22,8 @@
 	path = odoo-mastercore/odoo_ux
 	url = git@github.com:odoo-mastercore/odoo_ux.git
 	branch = 15.0
+
+[submodule "extra-addons/miscellaneous"]
+	path = extra-addons/miscellaneous
+	url = git@github.com:ingadhoc/miscellaneous.git
+	branch = 15.0
