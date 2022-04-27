@@ -17,3 +17,8 @@
 	path = extra-addons/account-financial-tools
 	url = git@github.com:ingadhoc/account-financial-tools.git
 	branch = 15.0
+
+[submodule "odoo-mastercore/odoo_ux"]
+	path = odoo-mastercore/odoo_ux
+	url = git@github.com:odoo-mastercore/odoo_ux.git
+	branch = 15.0
